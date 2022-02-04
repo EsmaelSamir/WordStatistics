@@ -1,6 +1,6 @@
 # WordStatistics
 
-a program that reads all text files form a specific directory and return word statistics (number of words
+Program that reads all text files form a specific directory and return word statistics (number of words
 per file/directory, longest word, shortest word, number of “is”, “are” and “you”).
 - The program have a simple GUI
 - The input of the program is a directory
